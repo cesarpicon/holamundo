@@ -1,0 +1,5 @@
+crear una carmeta mkdir nombrecarpeta
+retornar a la carpeta anterior cd ..
+entrar a una carpeta cd nombredelacarpeta
+CON LATECLA TAB AUTOCOMPLETAMOS EL NOPMBRE DE LOS DIR
+
